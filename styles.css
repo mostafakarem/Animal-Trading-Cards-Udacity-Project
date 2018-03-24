@@ -1,0 +1,32 @@
+.im{
+	  width:300px;
+	  height: 200px;
+	  border-left: solid 0px transparent; 
+      border-right: solid 0px transparent; 
+      border-bottom: solid 10px transparent;
+      box-shadow: 0 0 0px #111;
+}
+.b{
+	list-style: none;
+}
+.listType2{
+      list-style: none;
+	  width: 280px;
+      border-left: solid 1px transparent; 
+      border-right: solid 1px transparent; 
+      border-bottom: solid 1px transparent;
+      box-shadow: 0 0 1px #111;
+	  padding: 0.5em 0.5em 0.5em 0.5em;
+}
+.a{
+	
+	border-left: solid 1px transparent;
+	border-right: solid 1px #fff;
+	border-bottom: solid 1px transparent;
+	box-shadow: 3px 3px 5px 5px #ccc; 
+	
+	width: 300px;
+	height: 483px;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+
+}
